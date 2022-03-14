@@ -1,16 +1,15 @@
-### Hi there 👋
-Just using this as a palceholder.
-<!--
-**HawkText/HawkText** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there and welcome to the Github profile of Matthew Hawkins!
 
-Here are some ideas to get you started:
+My name is Matthew Hawkins and I'm here to program.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✅ HTML
+
+✅ CSS
+
+✅ JavaScript
+
+✅ Java
+
+✅ Python
+
+### Want to learn more? Check out one of my portfolio page at www.hawktext.com
